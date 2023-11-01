@@ -23,4 +23,4 @@ The **Help Assist** suggests possible combinations for you. Pretty neat, right?
 
 
 ## Help Section ℹ️
-Find all relevant information and rules in the "Help" section inside the game.
+Find all relevant information and rules in the "Help" section by pressing the "i"-button.
