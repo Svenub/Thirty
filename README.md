@@ -12,11 +12,12 @@ Welcome to **Thirty**, a classic dice game reimagined for mobile!
 ## Screenshots 📸
 
 ### Main Screen
-![Main Screen](readme_pictures/Screenshot_20231101_134923.png)
+<img src="readme_pictures/Screenshot_20231101_134923.png" alt="Main Screen" width="200"/>
 
 ### Help Assist Feature
 Need help choosing the best combination? There's a feature for that! The **Help Assist** suggests possible combinations for you. Pretty neat, right?
-![Help Assist](readme_pictures/Help_Assist.png)
+<img src="readme_pictures/Help_Assist.png" alt="Help Assist" width="200"/>
+
 
 ## Help Section ℹ️
 Find all relevant information and rules in the "Help" section inside the game.
