@@ -16,6 +16,7 @@ Welcome to **Thirty**, a classic dice game reimagined for mobile!
 
 ### Help Assist Feature
 Need help choosing the best combination? There's a feature for that! The **Help Assist** suggests possible combinations for you. Pretty neat, right?
+
 <img src="readme_pictures/Help_Assist.png" alt="Help Assist" width="200"/>
 
 
